@@ -2,7 +2,7 @@
 C#, .Net, Asp.Net, VB.Net, Powershell, Machine Learning, Artificial Intelligence
 
 # AI & ML - Projects
-## Fraud Detection Project
+## Fraud Detection
 The Fraud detection is the first ML related project that was created with an intention to learn the basic concept of GIT & GITHUB.
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/foramitahuja/Fraud_detection)
 
